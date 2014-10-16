@@ -1,1 +1,7 @@
-Metadat content categories
+HTML TAGS
+Metadata content categories
+Flow content
+Heading content
+Phrasing content
+Embedded content
+Elements, Tags, Attributes, 
